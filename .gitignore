@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Build directories
+dist/
+build/
+
+# Docker
+*.dockerfile
+docker-compose.override.yml
+
+# IDE & Editor folders
+.vscode/
+.idea/
+
+# MacOS specific files
+.DS_Store
+
+# NGINX
+nginx.conf
+
+# AWS
+.aws/
+.aws-sdk/
+
+# Other configurations
+*.swp
+*.swo
